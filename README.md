@@ -6,10 +6,6 @@
 
 ###
 
-<img align="left" height="165" src="https://i.ibb.co/HPQjcFj/daddy3-removebg-preview.png"  />
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
