@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning NextJS for frontend, Laravel for backend and Flutter for mobile development<br>🎯 Area of Expertise: Javascript, Typescript, VueJS, NuxtJS, NodeJS, Python, Django, HTML, CSS, Tailwind, Vuetify</p>
+<p align="left">👨🏻‍💻 I'm a Full-Stack Developer<br>⚡Covering FrontEnd to BackEnd Development<br>🔍 I'm focusing more on Web Development</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">My area of expertise</h3>
 
 ###
 
@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -42,7 +40,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
 </div>
+
+###
+
+<p align="left">💪 Javascript, Typescript, VueJS, NuxtJS, NodeJS, Python, Django, HTML, CSS, Tailwind, Vuetify, NestJS</p>
+
+###
+
+<h3 align="left">My journey of learning new technology</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+</div>
+
+###
+
+<p align="left">🎯 React, NextJS, Laravel, PHP, Flutter</p>
+
+###
+
+<h2 align="left">My Github Stats</h2>
 
 ###
 
@@ -56,6 +86,10 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhaiminmfadzil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">Contact Me</h2>
 
 ###
 
