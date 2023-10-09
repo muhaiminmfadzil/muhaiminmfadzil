@@ -49,6 +49,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhaiminmfadzil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=default&hide_border=false&order=2" height="155" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=muhaiminmfadzil&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=muhaiminmfadzil&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -59,7 +60,7 @@
   <a href="https://www.linkedin.com/in/muhaimin-mohd-fadzil-98279313b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:meenkun4649@gmail.com" target="_blank">
+  <a href="meenkun4649@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
