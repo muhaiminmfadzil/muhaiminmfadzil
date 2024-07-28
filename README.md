@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">💪 Javascript, Typescript, VueJS, NuxtJS, NodeJS, Python, Django, HTML, CSS, Tailwind, Vuetify, NestJS</p>
+<p align="left">💪 Javascript, Typescript, VueJS, NuxtJS, NodeJS, Python, Django, HTML, CSS, Tailwind, Vuetify</p>
 
 ###
 
